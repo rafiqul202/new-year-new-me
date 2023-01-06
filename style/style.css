@@ -87,8 +87,9 @@ h6 {
 }
 .section_3 .main {
   padding: 40px 30px;
-  color: white;
+  /* color: white; */
 }
+/* section_3 start */
 .section_3  {
   /* background: linear-gradient(rgba #e66465, #9198e5), url(../images/watch.png); */
   height: 350px;
@@ -100,8 +101,10 @@ h6 {
   background-size: cover;
   margin: 0px 150px ;
   background-repeat: no-repeat;
+
 }
 
 .section_3 .main .btn{
-  
+  /* margin-top: 0%; */
 }
+/* section_3 end */
