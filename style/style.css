@@ -87,7 +87,7 @@ h6 {
 }
 .section_3 .main {
   padding: 40px 30px;
-  /* color: white; */
+  color: white;
 }
 /* section_3 start */
 .section_3  {
@@ -101,10 +101,41 @@ h6 {
   background-size: cover;
   margin: 0px 150px ;
   background-repeat: no-repeat;
-
 }
 
-.section_3 .main .btn{
-  /* margin-top: 0%; */
-}
 /* section_3 end */
+
+/* footer section start */
+.footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 100px;
+  align-items: center;
+}
+.footer{
+  height: 500px;
+  background-color: black;
+  margin: 70px 150px;
+  border-radius: 8px;
+  
+}
+
+.footer .main_footer{
+  padding: 70px 0px;
+  color: white;
+}
+
+.footer .main_footer_1{
+  color: white;
+}
+
+ .main_footer_1 .mail{
+  margin-top: 20px;
+  padding: 20px 80px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+/* footer section end */
