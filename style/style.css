@@ -115,7 +115,7 @@ h6 {
 .footer{
   height: 500px;
   background-color: black;
-  margin: 70px 150px;
+  margin: 70px 150px 0px 150px;
   border-radius: 8px;
   
 }
@@ -132,6 +132,7 @@ h6 {
  .main_footer_1 .mail{
   margin-top: 20px;
   padding: 20px 80px;
+  border: none;
   border-radius: 10px;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
